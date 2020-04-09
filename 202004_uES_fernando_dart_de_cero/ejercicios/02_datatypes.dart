@@ -6,7 +6,7 @@ main() {
   double $c = 10.3;
   int apt = 12;
   print("$a, $_b, ${$c}");
-
+  print(apt);
 
 
   // Strings - Cadenas de caracteres
