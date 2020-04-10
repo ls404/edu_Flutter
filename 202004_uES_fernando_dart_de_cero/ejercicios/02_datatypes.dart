@@ -10,7 +10,16 @@ main() {
 
 
   // Strings - Cadenas de caracteres
+  String nombre = 'Lubo';
+  String nombre2 = "Tony";
+  String nombre3 = 'O\'Connor';
+  print(nombre3);
 
+  String multilinea = '''
+  Hola mundo
+¿Como estas?
+  ''';
+  print(multilinea);
 
   // Booleans
 
